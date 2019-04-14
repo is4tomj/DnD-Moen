@@ -7,8 +7,6 @@ Alex Tersival was part of the Chisel, but he is dead.
 
 # Inventory
 
-
-
 # Test of the smoking eye -- March 10, 2019.
 
 `Jenny` tells us about`Cage Rites`. which build something called soul cages. We don't know what they are or do. `Jennya` believes the cage that we saw in Red Gourge may have been a soul cage made by `Cage Rites`.
@@ -46,6 +44,21 @@ We come to stone doors of the `Cathedral of Feathers`. The stone is different th
 `Elaina` was turned invisible by our Bard. She used her spider boots to climb to the top and sniped both dryders.
 
 
+### Test of the smoking eye (continued) -- April 14, 2019.
+
+We enter the `Cathedral of Feathers` and we see a statue that appears to be demonic. The statue does not appear to be part of the original cathedral. As we walk toward the statue, a badass salamander appears and creates a wall of fire splits the party into two. We also encounter a succubus.
+
+The succubus cannot charm anyone because of Badge's ability to prevent anyone within 10 feet of being charmed. The succubus is killed after charming our bard. He was sad, but got over it. We also killed the salamander.
+
+Badge opens a door to a meditation chamber and another door to a library with floating books. The books damage Badge.
+
+We go down steps to begin the test. We are given a choice between two doors. We choose the right, which is supposed to be a celestial room. A creature is in the middle -- an avoral guard -- that looks kind of like a bigass hawk. We decide to trust him, `Halalia`, by breaking the line of silver dust and then give a scroll of shift. Halalia thanks us and we proceed to a door behind Halalia.
+
+We enter the `Chamber of the Lantern`. The room has a stairway leading to a dias, with several floating sigials. The floating mummy tells us to go back through the other door and kill `Thathnak`. So we do.
+
+`Thathnak` attacks anything and everything that enters the room. To make things worse, `Thathnak` is a spider-looking dude, so Badge cowers behind us. We kill `Thathnak` without much hubub.
+
+When we enter the Chamber of the Lantern after defeating `Thathnak`, we get the Lantern of Guidance. It points us to the second part of the challenge. When we exit the Cathedral, the lantern points us a North. We re-enter the cathedral from a long rest.
 
 # Red Gourge -- January 2019
 
